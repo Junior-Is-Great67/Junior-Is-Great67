@@ -1,8 +1,8 @@
 - 👋 He, I’m @Junior-Is-Great67
-- 👀 I’m interested in goaniMATE
+- 👀 I’m interested in goaniMATE & SlOT MACHines
 - 🌱 I’m currently learning about javascript.
 - 💞️ I’m looking to collaborate on nobody!
-- 📫 How to reach me ...hmmmmm
+- 📫 How to reach me ...hmmmmm discord maybe
 - I am so interested in goanimate nostalgia.
 
 <!---
