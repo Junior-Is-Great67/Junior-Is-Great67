@@ -1,8 +1,8 @@
-- 👋 He, I’m @Junior-Is-Great67
-- 👀 I’m interested in goaniMATE & SlOT MACHines
-- 🌱 I’m currently learning about javascript.
-- 💞️ I’m looking to collaborate on nobody!
-- 📫 How to reach me ...hmmmmm discord maybe
+# WELCOME TO MY PROFILE
+- I'm 15 years old (12/31)
+- I code: html,css,js,cs (planning to learn obj-c)
+- I don't do many collabs but I work on Wrapper: Offline (GoAnimate server emulator)
+- You can reach me by ```jyvee``` on discord or jyveeanimate@jyvee8games.org
 - I am so interested in goanimate nostalgia.
 
 <!---
