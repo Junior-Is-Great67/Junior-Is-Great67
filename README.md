@@ -2,7 +2,7 @@
 - I'm 15 years old (12/31)
 - I code: html,css,js,cs (planning to learn obj-c)
 - I don't do many collabs but I work on Wrapper: Offline (GoAnimate server emulator)
-- You can reach me by ```jyvee``` on discord or jyveeanimate@jyvee8games.org
+- You can reach me by ```f3ar4future``` on discord or jyveeanimate@jyvee8games.org
 - I am so interested in goanimate nostalgia.
 
 <!---
